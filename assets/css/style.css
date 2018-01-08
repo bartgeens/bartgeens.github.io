@@ -353,6 +353,8 @@ label {
 .navbar-inverse .navbar-brand {
 	padding: 30px 15px;
 	margin-right: 30px;
+	height: 100%;
+	width: auto;
 	color: inherit;
 }
 .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
