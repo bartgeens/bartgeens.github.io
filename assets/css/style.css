@@ -350,20 +350,21 @@ label {
 
 /*	Navbar
 	==================================================*/
-	.navbar-brand {
-		padding: 0px;
-	  }
-	  .navbar-brand>img {
-		height: 100%;
-		padding: 15px;
-		width: auto;
-	  }
+
+
 
 .navbar-inverse .navbar-brand {
 	padding: 30px 15px;
 	margin-right: 30px;
 	color: inherit;
 }
+
+.navbar-brand>img {
+	height: 100%;
+	padding: 15px;
+	width: auto;
+  }
+  
 .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
 	color: #000;
 }
