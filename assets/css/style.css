@@ -356,7 +356,8 @@ label {
 
 .navbar-brand>img {
 	padding: 15px;
-	width: 200px;
+	width: auto;
+	height: 100%;
   }
 
 .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
