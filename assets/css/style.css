@@ -360,11 +360,11 @@ label {
 }
 
 .navbar-brand>img {
-	height: 100%;
+	height: 50%;
 	padding: 15px;
 	width: auto;
   }
-  
+
 .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
 	color: #000;
 }
