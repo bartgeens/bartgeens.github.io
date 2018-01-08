@@ -173,7 +173,7 @@ pre {
 	border-bottom: 1px solid rgba(255, 255, 255, 0);
 }
 .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
-	background: transparent;
+	background: #A1B192;
 	border: none;
 	border-color: rgba(255, 255, 255, 0);
 }
@@ -354,11 +354,11 @@ label {
 
 
 
-.navbar-brand>img {
-	padding: 15px;
-	width: auto;
-	height: 100%;
-  }
+	.navbar-brand>img {
+		height: 170%;
+		padding: 0px;
+		width: auto;
+	  }
 
 .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
 	color: #000;
