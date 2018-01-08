@@ -173,7 +173,7 @@ pre {
 	border-bottom: 1px solid rgba(255, 255, 255, 0);
 }
 .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
-	background: #A1B192;
+	background: transparent;
 	border: none;
 	border-color: rgba(255, 255, 255, 0);
 }
@@ -364,7 +364,7 @@ label {
 	color: #000;
 }
 .navbar-inverse {
-	background-color: rgba(255, 255, 255, .9);
+	background-color: #A1B192;
 	
 	border: none;
 }
