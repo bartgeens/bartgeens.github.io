@@ -354,6 +354,11 @@ label {
 
 
 
+.navbar-brand>img {
+	padding: 15px;
+	width: 200px;
+  }
+
 .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
 	color: #000;
 }
